@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513706795179",
+    "project_id": "smart-medicine-dispencer",
+    "storage_bucket": "smart-medicine-dispencer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513706795179:android:709d429a5b0cb6a94cd7ee",
+        "android_client_info": {
+          "package_name": "com.example.smart_medicine_dispecer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRTGs4DDCAk5vGR94HZTHvl47nki6rvVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
